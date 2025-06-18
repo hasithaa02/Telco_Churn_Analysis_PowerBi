@@ -73,7 +73,7 @@
 
 ## 🌐 Custom Web App
 
-- **Live Link**: [https://qgdotldv.manus.space/](https://qgdotldv.manus.space/)
+- **Live Link**: [https://telco-churn-analysis.netlify.app/](https://telco-churn-analysis.netlify.app/)
 - Displays EDA plots, model metrics, and churn insights
 - User-friendly interface for stakeholders without Power BI access
 - Real-time filtering and drill-down capabilities
